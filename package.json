@@ -1,0 +1,16 @@
+{
+    "name": "csvtojsobject",
+    "version": "1.0.0",
+    "description": "",
+    "main": "csvToJSObject.js",
+    "type": "module",
+    "scripts": {
+        "start": "node csvToJSObject.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "csv-parse": "^5.3.6"
+    }
+}
